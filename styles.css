@@ -105,6 +105,7 @@ body {
     position: fixed;
     bottom: 2rem;
     right: 2rem;
+    margin-bottom: env(safe-area-inset-bottom);
     z-index: 1000;
     background: var(--bg);
     color: var(--text);
