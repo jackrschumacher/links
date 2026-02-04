@@ -1,0 +1,3 @@
+[submodule "links/themes/LucentLink-Hugo"]
+	path = links/themes/LucentLink-Hugo
+	url = https://github.com/cx48/LucentLink-Hugo.git

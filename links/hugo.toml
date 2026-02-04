@@ -1,0 +1,12 @@
+baseURL = "https://links.jackrschumacher.com/"
+languageCode = "en-us"
+title = "Links- Jack Schumacher"
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+disableKinds = ["taxonomy", "term"]
+[params]
+  description     = "A clean, customizable, and responsive Linktree-style landing page built using HTML, Tailwind CSS, and Font Awesome."
+  googleAnalytics = ""    # your GA ID, if any
+
+[outputs]
+  home = ["HTML"]
