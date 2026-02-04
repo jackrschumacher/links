@@ -1,7 +1,7 @@
 ---
 title: "LucentLink"
 # Profile settings
-profileImage: "images/headshot.jpg"        # path under static/
+profileImage: "/images/headshot.jpg"        # path under static/
 name: "Jack Schumacher"
 description: "All my links in one place"
 # socials:
