@@ -3,7 +3,7 @@ title: "LucentLink"
 # Profile settings
 profileImage: "/images/jack.jpg"        # path under static/
 name: "Jack Schumacher"
-description: "All my links in one place"
+# description: "All my links in one place"
 # socials:
 #   - url: "https://twitter.com/yourhandle"
 #     icon: "fab fa-twitter"
@@ -23,14 +23,17 @@ links:
   - href: "https://www.jackrschumacher.com/"
     icon: "fas fa-globe"
     title: "My Website"
-    description: "Check out my work"
   - href: "https://www.jackrschumacher.com/contact"
     icon: "fas fa-address-book"
     title: "Contact me"
+ 
   - href: "https://linked.in/jackrschumacher"
     icon: "fab fa-linkedin"
     title: "LinkedIn"
     description: "View my LinkedIn"
+  - href: "https://www.jackrschumacher.com/projects/"
+    icon: "fas fa-code"
+    title: "View my projects"
   - href: "https://github.com/jackrschumacher/"
     icon: "fab fa-github"
     title: "GitHub"
