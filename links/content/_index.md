@@ -3,7 +3,7 @@ title: "LucentLink"
 # Profile settings
 profileImage: "/images/jack.jpg"        # path under static/
 name: "Jack Schumacher"
-# description: "All my links in one place"
+description: "College student pursuing a degree in Business Information Systems with a focus in Cybersecurity"
 # socials:
 #   - url: "https://twitter.com/yourhandle"
 #     icon: "fab fa-twitter"
@@ -37,6 +37,9 @@ links:
   - href: "https://github.com/jackrschumacher/"
     icon: "fab fa-github"
     title: "GitHub"
+  - href: "https://github.com/jackrschumacher/"
+    icon: "fas fa-code-branch"
+    title: "Codeberg"
   - href: "mailto:jackrschumacher@gmail.com"
     icon: "fas fa-envelope"
     title: "Email Me"
